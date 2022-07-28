@@ -1,0 +1,4 @@
+- What things are causing most difficulty to the project now (typically related to progress and issues)?
+- What are the things that are most likely to cause problems to the project in future (normally relating to risks and changes)?
+- What actions are my responsibility to undertake?
+- Which are the most important things that I need to resolve now?

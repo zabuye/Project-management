@@ -1,0 +1,8 @@
+Be flexible and creative. All problems can be solved, or sidestepped.
+- Get your team to do subsequent tasks more quickly. This is often the simplest way of recovering time. It is not always possible, but often if you ask people to focus on your project and put in a little more effort, some slippage can be recovered. If you work to keep the project team motivated and interested in theproject, they will often automatically make up for any slippage that occurs. This only really works if you are tracking your project closely and you need the team to catch up a small amount of time, such as a few days.
+- Accept the slippage and using some contingency. This is a valid option, but even if you are going to use up some of your contingency you should see if there is another way of recovering the time.
+- Add more resources. This sometimes works, but it means you may convert a slippage in time into extra budget.
+- Look at alternative ways to do what you are trying to do. There are lots of ways projects can be done differently. Looking at the tasks, are there any that can be shortened? Or can any dependencies be removed so tasks can be done sooner?
+- Change the project in some way. If you reduce your scope and deliver less, the project can sometimes be done more quickly. This should not be done lightly and always requires your customer’s approval, but if you really are going to be late you should ask your customer: ‘Would you prefer the project to be late, or on time but deliver less?’
+- Do nothing. Accept the slippage and be late. This is a possible option and sometimes you have no choice, but it is not always acceptable to your project customer. If you keep doing this you should ask yourself what value you are actually adding as the project manager.
+
